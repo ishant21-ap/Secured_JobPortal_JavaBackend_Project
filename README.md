@@ -1,2 +1,28 @@
-# Secured_JobPortal_JavaBackend_Project
-This is Secured Java Backend Job Portal Project, developed using Spirng Security with Bycrypt, spring boot, JPA, MySQL
+# JobPortal Backend Application
+
+## Overview
+The **JobPortal Backend Application** is a Java-based RESTful API developed using **Spring Boot**, **Hibernate**, **JPA**, and **MySQL**. It provides a robust backend for managing job postings with features like adding, viewing, updating, deleting, searching, and securing resources with **Spring Security** and **real-time authentication**.
+
+## Features
+- **Add Job**: Create a new job post with detailed information.
+- **View Job**: Retrieve all jobs or specific job details.
+- **Update Job**: Modify existing job details.
+- **Delete Job**: Remove a job post from the database.
+- **Search by Word**: Search for jobs using keywords in job descriptions or titles.
+- **Spring Security Integration**:
+  - Resource access restricted to authorized users.
+  - Passwords stored securely using **bcrypt hashing**.
+  - Real-time authentication to ensure secure access.
+
+## Technology Stack
+- **Backend**: Java, Spring Boot, Hibernate, JPA
+- **Database**: MySQL
+- **Authentication**: Spring Security, BCryptPasswordEncoder
+- **Development Tools**: IntelliJ IDEA, Maven, Postman (for API testing)
+
+## Prerequisites
+Before running the application, ensure the following:
+1. **Java Development Kit (JDK)** version 8 or later is installed.
+2. **MySQL** server is running with an accessible database.
+3. **Maven** is installed and configured.
+
