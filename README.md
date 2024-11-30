@@ -1,7 +1,7 @@
-# JobPost Backend Application
+# JobPortal Backend Application
 
 ## Overview
-The **JobPost Backend Application** is a Java-based RESTful API developed using **Spring Boot**, **Hibernate**, **JPA**, and **MySQL**. It provides a robust backend for managing job postings with features like adding, viewing, updating, deleting, searching, and securing resources with **Spring Security** and **real-time authentication**. It also includes an **Aspect-Oriented Programming (AOP)** module for enhanced modularity and cross-cutting concerns like logging.
+The **JobPortal Backend Application** is a Java-based RESTful API developed using **Spring Boot**, **Hibernate**, **JPA**, and **MySQL**. It provides a robust backend for managing job postings with features like adding, viewing, updating, deleting, searching, and securing resources with **Spring Security** and **real-time authentication**. It also includes an **Aspect-Oriented Programming (AOP)** module for enhanced modularity and cross-cutting concerns like logging.
 
 ## Features
 - **Add Job**: Create a new job post with detailed information.
